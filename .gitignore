@@ -9,4 +9,4 @@ backend-jwt/.env
 backend-session/package-lock.json
 
 frontend/node_modules
-frontend-jwt/node_modules
+node_modules
